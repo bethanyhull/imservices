@@ -1,4 +1,0 @@
----
-title: IM Services
-permalink: /
----
